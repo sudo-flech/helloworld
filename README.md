@@ -1,1 +1,1 @@
-thisis jus a test
+this is just a test
